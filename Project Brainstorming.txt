@@ -1,0 +1,6 @@
+Need data from many movie genres 
+will get data from rotten tomatoes, and all data will be recent data in the last year or so
+Questions:
+What genre of movie do you want to watch?
+Do you want to search movies in this genre?
+
